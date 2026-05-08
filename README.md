@@ -58,15 +58,6 @@ Designed and evaluated machine learning solutions for complex real-world dataset
 
 ---
 
-# 🏅 Achievements
-
-🏆 UM Hackathon 2026 Finalist
-🌍 Top 30 / 300+ Teams — UrbanFloodBench International Competition
-🧠 ICDS Mini Hackathon 2025 Finalist
-📊 UM Datathon 2025 Participant
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
