@@ -18,30 +18,17 @@ Building AI-powered systems, intelligent automation workflows, and scalable full
 
 # 🚀 About Me
 
-```yaml
-name: Steve Hein
-located_in: Malaysia
-education:
-  [
-    "BSc Computer Science (Artificial Intelligence) - University of Malaya"
-  ]
+### 🌱 Currently Learning
 
-currently_learning:
-  [
-    "Hermes Agent Frameworks",
-    "OpenClaw",
-    "AI Agent Orchestration"
-  ]
+Hermes Agent frameworks, OpenClaw, and scalable AI agent orchestration systems.
 
-interests:
-  [
-    "LLM Systems",
-    "Automation",
-    "AI Infrastructure",
-    "System Design",
-    "Startup Engineering"
-  ]
-```
+### 🔭 Currently Working On
+
+Building AI systems and full-stack applications that solve real-world workflow problems — recently focused on grant automation, document generation, and intelligent data pipelines.
+
+### ⚡ Fun Fact
+
+Most of my projects started from “this would be cool if it actually worked” moments during late-night discussions and hackathons.
 
 ---
 
@@ -55,9 +42,9 @@ AI-powered SME grant readiness copilot with multi-agent orchestration, automated
 
 Graph-based flood forecasting system using PyTorch Geometric and autoregressive rollout pipelines.
 
-### 📈 Intelligent Cash Flow Forecasting
+### 🧠 ICDS Mini Hackathon 2025 — Finalist
 
-Financial forecasting and anomaly detection system using ARIMA, XGBoost, and Isolation Forest.
+Designed and evaluated machine learning solutions for complex real-world datasets, presenting technical methodologies and model insights during the competition.
 
 ---
 
@@ -66,18 +53,6 @@ Financial forecasting and anomaly detection system using ARIMA, XGBoost, and Iso
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,fastapi,mongodb,postgres,docker,pytorch,firebase,supabase,git,figma&theme=dark&perline=8" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Stevxhein&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevxhein&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
