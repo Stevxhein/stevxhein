@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm Steve Hein
 
-### AI Engineer • Full-Stack Developer • Hackathon Finalist
+### AI Engineer • Full-Stack Developer • Hackathon / Case study
 
 <p align="center">
 Building AI-powered systems, intelligent automation workflows, and scalable full-stack applications.
